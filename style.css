@@ -78,3 +78,24 @@ strong{
 }
 
 /* Add styles here! */
+
+
+/*
+
+issues with solution.. padding on top and bottom of elements needs to be larger
+default font-size needs to be 18px (not browser inherited).
+
+Font of header p needs to be 1.25rem
+
+uses negative margin to align component with page instead of consistent
+padding and in all components. Allow component to remain in isolation. 
+
+negative margin allows us to /eat into/ max width wrapper. 
+
+sneaky trick. margin/padding canceling to align items
+ 
+
+
+Thinks I got right...
+Border bottom, box and general styles.
+*/
